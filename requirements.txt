@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+scipy
+requests
+joblib
+openpyxl
+# Optional models (uncomment if you want to train XGB/LGBM in nfl_betting_mode.py)
+# xgboost
+# lightgbm
